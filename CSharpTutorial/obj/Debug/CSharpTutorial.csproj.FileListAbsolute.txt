@@ -1,0 +1,7 @@
+C:\Users\win\Desktop\Tutorials\Projects\-CSharpTutorial\CSharpTutorial\bin\Debug\CSharpTutorial.exe.config
+C:\Users\win\Desktop\Tutorials\Projects\-CSharpTutorial\CSharpTutorial\bin\Debug\CSharpTutorial.exe
+C:\Users\win\Desktop\Tutorials\Projects\-CSharpTutorial\CSharpTutorial\bin\Debug\CSharpTutorial.pdb
+C:\Users\win\Desktop\Tutorials\Projects\-CSharpTutorial\CSharpTutorial\obj\Debug\CSharpTutorial.csproj.AssemblyReference.cache
+C:\Users\win\Desktop\Tutorials\Projects\-CSharpTutorial\CSharpTutorial\obj\Debug\CSharpTutorial.csproj.CoreCompileInputs.cache
+C:\Users\win\Desktop\Tutorials\Projects\-CSharpTutorial\CSharpTutorial\obj\Debug\CSharpTutorial.exe
+C:\Users\win\Desktop\Tutorials\Projects\-CSharpTutorial\CSharpTutorial\obj\Debug\CSharpTutorial.pdb

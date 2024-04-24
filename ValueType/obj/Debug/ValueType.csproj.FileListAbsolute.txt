@@ -1,0 +1,7 @@
+C:\Users\win\Desktop\Tutorials\Projects\-CSharpTutorial\ValueType\bin\Debug\ValueType.exe.config
+C:\Users\win\Desktop\Tutorials\Projects\-CSharpTutorial\ValueType\bin\Debug\ValueType.exe
+C:\Users\win\Desktop\Tutorials\Projects\-CSharpTutorial\ValueType\bin\Debug\ValueType.pdb
+C:\Users\win\Desktop\Tutorials\Projects\-CSharpTutorial\ValueType\obj\Debug\ValueType.csproj.AssemblyReference.cache
+C:\Users\win\Desktop\Tutorials\Projects\-CSharpTutorial\ValueType\obj\Debug\ValueType.csproj.CoreCompileInputs.cache
+C:\Users\win\Desktop\Tutorials\Projects\-CSharpTutorial\ValueType\obj\Debug\ValueType.exe
+C:\Users\win\Desktop\Tutorials\Projects\-CSharpTutorial\ValueType\obj\Debug\ValueType.pdb
